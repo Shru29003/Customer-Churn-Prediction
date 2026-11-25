@@ -1,0 +1,4 @@
+Model,Best_Parameters,CV_F1_Score,Test_Accuracy,Test_Precision,Test_Recall,Test_F1_Score,Test_ROC_AUC
+Logistic Regression,{'classifier__C': 0.01},,0.860625,0.7372262774,0.3506944444,0.4752941176,0.8568687542
+Decision Tree,"{'classifier__criterion': 'gini', 'classifier__max_depth': 5, 'classifier__min_samples_leaf': 1, 'classifier__min_samples_split': 2}",1.0,0.825625,0.5260115607,0.3159722222,0.3947939262,0.7313976753
+Random Forest,"{'classifier__n_estimators': 200, 'classifier__min_samples_leaf': 1, 'classifier__max_features': 'sqrt', 'classifier__max_depth': 10}",1.0,0.83375,0.5376712329,0.5451388889,0.5413793103,0.8241525872

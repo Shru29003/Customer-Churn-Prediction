@@ -1,0 +1,6 @@
+Metric,Logistic Regression,Decision Tree,Random Forest
+Accuracy,0.860625,1.0,1.0
+Precision,0.7372262774,1.0,1.0
+Recall,0.3506944444,1.0,1.0
+F1 Score,0.4752941176,1.0,1.0
+ROC-AUC,0.8566940845,1.0,1.0

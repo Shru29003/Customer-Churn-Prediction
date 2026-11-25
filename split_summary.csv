@@ -1,0 +1,4 @@
+Dataset,Total_Records,Churn_Percentage
+Original,8000,18.0
+Training,6400,18.0
+Testing,1600,18.0
